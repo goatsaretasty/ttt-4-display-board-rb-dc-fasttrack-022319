@@ -6,4 +6,4 @@ def display_board(board)
   rows = ["  |   |   ", "-----------",  "  |   |   ", "-----------", "   |   |   "]
 end 
 
-display_board
+display_board(board)
